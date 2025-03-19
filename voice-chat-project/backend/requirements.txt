@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pyaudio
+numpy
+whisper
+torch
+transformers
+TTS
+openai
+websockets
+wave
